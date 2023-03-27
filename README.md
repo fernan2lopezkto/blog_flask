@@ -1,0 +1,1 @@
+siguiendo el tutorial hecho por  ... en el que creamos un blog con flask python 
